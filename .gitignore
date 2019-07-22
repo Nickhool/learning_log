@@ -1,3 +1,4 @@
+*.html linguist-language=python
 ll_env/
 __pycache__/
 *.sqlite3
